@@ -1,5 +1,5 @@
 public static void main (String [] args) {
-	System.out.println("Hello Git. It's lit");
+	System.out.println("Hello Git. It's lit, isn't it?");
 
 
 }
